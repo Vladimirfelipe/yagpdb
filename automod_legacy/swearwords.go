@@ -73,4 +73,8 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
-}
+        "sexo":        true,
+        "ano":         true,
+	"pija"         true,
+	"culo"         true,
+	"tetas"        true,
